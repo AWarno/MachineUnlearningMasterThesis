@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "absl-py>=2.1.0",
     "datasets==3.0.0",
     "timm==1.0.9",
     "torch==2.4.1",
